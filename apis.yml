@@ -30,7 +30,7 @@ x-domain-status: pendingDelete
 x-defunct-evidence: 'whois: Registry Expiry Date 2026-05-09, Domain Status pendingDelete/clientHold; no
   A/NS records; 2024 Wayback snapshot redirects to fubo.tv'
 x-identity-source: https://web.archive.org/web/20200809225553/https://edisn.ai/
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:
