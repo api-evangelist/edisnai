@@ -43,7 +43,7 @@ x-defunct-evidence: 'whois: Registry Expiry Date 2026-05-09, Domain Status pendi
 x-identity-source: https://web.archive.org/web/20200809225553/https://edisn.ai/
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-09-15'
+modified: '2026-09-16'
 tags:
 - Company
 - Artificial Intelligence
@@ -52,6 +52,7 @@ tags:
 - Sports
 - Media
 - Streaming
+- Defunct
 tags_raw:
 - Company
 - Artificial Intelligence
@@ -60,6 +61,7 @@ tags_raw:
 - Sports
 - Media
 - Streaming
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
